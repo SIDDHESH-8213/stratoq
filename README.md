@@ -213,10 +213,9 @@ Contributions welcome — feel free to fork, PR, or open issues.
 
 # 🎯 Why StratoQ?
 
-This project demonstrates:
+This project demonstrates My:
 - Core backend skills: distributed queues, idempotency, retries, DB + Kafka integration  
 - Clean and modular Go code  
 - Infrastructure awareness: Docker, Kafka, PostgreSQL  
 - Production-thinking (graceful shutdowns, backoff, metrics)  
 
-Great for **showcasing backend/infra engineering capabilities**.
