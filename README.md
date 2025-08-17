@@ -1,5 +1,8 @@
 # StratoQ
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5615a3e-02fd-449a-a10a-516f9a2b877e" />
+
+
 StratoQ is a lightweight **distributed job queue** built with Go, PostgreSQL, and Kafka.  
 It’s designed as a **minimal but production-sane MVP**, perfect for learning, prototyping, or extending into a full system.
 
